@@ -1,2 +1,2 @@
-AAAA
-aa
+1	AAAA
+2	aa
