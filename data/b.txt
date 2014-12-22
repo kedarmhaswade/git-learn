@@ -1,2 +1,2 @@
-BBB
-bb
+1	BBB
+2	bb
