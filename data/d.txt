@@ -1,2 +1,2 @@
-DDDD
-dddd
+1	DDDD
+2	dddd
