@@ -1,0 +1,3 @@
+This file is created in the fork. You can either
+1) merge the PR that I will create, or
+2) pull the changes from my fork (https://github.com/kedarmhaswade/git-learn.git) by setting the git remote
